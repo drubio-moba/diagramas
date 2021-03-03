@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-03-03T10:32:52.805Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" etag="ZKUY-mtHUUbTOnzliGSy" version="13.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-03T10:52:08.698Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" etag="1Ydhb-YyHp6W2idWxgrp" version="13.6.6" type="github">
   <diagram name="Page-1" id="fbcf5db9-b524-4cd4-e4f3-379dc89c3999">
-    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="705" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -28,7 +28,7 @@
         <mxCell id="2a0f93b5c73ef8e7-10" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;strokeWidth=1;fillColor=#F2931E;fontSize=13;fontColor=#FFFFFF;align=center;gradientColor=none;gradientDirection=east;verticalAlign=top;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="90" y="1070" width="220" height="85" as="geometry" />
         </mxCell>
-        <mxCell id="2a0f93b5c73ef8e7-11" value="N" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=30;fontColor=#FFFFFF;" parent="1" vertex="1">
+        <mxCell id="2a0f93b5c73ef8e7-11" value="6" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=30;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="100" y="1103" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="2a0f93b5c73ef8e7-12" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;strokeWidth=1;fillColor=#10739E;fontSize=13;fontColor=#FFFFFF;align=center;gradientColor=none;gradientDirection=east;verticalAlign=top;shadow=1;" parent="1" vertex="1">
@@ -115,7 +115,7 @@
         <mxCell id="4eeyZyHi9IBUeyTs0Q_m-16" value="2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=30;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="260" y="353" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="4eeyZyHi9IBUeyTs0Q_m-17" value="&lt;h1&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;Definició WIFI INSTALACIÓ&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;Validar i registrar la configuració wifi de la deixalleria.&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=4;fillColor=none;gradientColor=#007FFF;fontSize=9;fontColor=#FFFFFF;align=center;" vertex="1" parent="1">
+        <mxCell id="4eeyZyHi9IBUeyTs0Q_m-17" value="&lt;h1&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;Definició XARXA&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;Validar i registrar la configuració wifi de la deixalleria, que determina l&#39;accés IP a tots els components.&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=4;fillColor=none;gradientColor=#007FFF;fontSize=9;fontColor=#FFFFFF;align=center;" vertex="1" parent="1">
           <mxGeometry x="310" y="324" width="160" height="77" as="geometry" />
         </mxCell>
         <mxCell id="4eeyZyHi9IBUeyTs0Q_m-25" value="" style="endArrow=none;html=1;strokeWidth=4;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;endFill=0;" edge="1" parent="1" source="2a0f93b5c73ef8e7-19">
